@@ -58,6 +58,3 @@ Beiträge sind willkommen! Bitte folgen Sie diesen Schritten:
 3. Committen Sie Ihre Änderungen (`git commit -m 'Add some AmazingFeature'`).
 4. Pushen Sie zu dem Branch (`git push origin feature/AmazingFeature`).
 5. Öffnen Sie einen Pull Request.
-
-
-Projekt-Link: [https://github.com/your-username/2d-survival-game](https://github.com/your-username/2d-survival-game)
